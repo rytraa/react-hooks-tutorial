@@ -1,0 +1,14 @@
+.fetchGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    margin: 0;
+    padding:0;
+    border: 1px solid slategray;
+}
+
+.fetchGridData{
+    border: 1px solid slategray;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}

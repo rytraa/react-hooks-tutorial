@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body{
+  background: sandybrown;
+}
+
+.App{
+  background: lightgray;
+  padding: 20px;
+  text-align: center;
+}
